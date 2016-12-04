@@ -2,10 +2,10 @@
 import UserAccount
 
 #Three things are missing from the line below - fill them in
-my_user=UserAcount(  ,  ,  )
+my_user=UserAcount("warrd18-meet" ,"meetyear18" ,"chocolate" )
 
 #Call the print_secret method (function) - it takes one input - a guess for the password.
-
+my_user.print_secret("meetyear18")
 #Use the wrong password as input here
 my_user.
 
